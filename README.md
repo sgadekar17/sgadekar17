@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Sneha Sunil Gadekar
-| UI Developer | JavaScript | React JS | Angular | AEM Frontend 
+| Software Developer | JavaScript | React JS | Angular | AEM Frontend 
 
 8 Years of Experience in Front End - Back End Development
 
